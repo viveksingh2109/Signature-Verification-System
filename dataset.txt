@@ -1,0 +1,3 @@
+for dataset refer the following:
+
+https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures
